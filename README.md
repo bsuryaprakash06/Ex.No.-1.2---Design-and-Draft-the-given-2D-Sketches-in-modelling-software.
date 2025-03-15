@@ -40,7 +40,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![image](https://github.com/user-attachments/assets/82e66361-f166-48b5-99d0-b6d22f2afa00)
+![image](https://github.com/user-attachments/assets/f5f95470-a0e2-4b8f-9c7b-d20ae39c3772)
+
 
  
  ## RESULT
