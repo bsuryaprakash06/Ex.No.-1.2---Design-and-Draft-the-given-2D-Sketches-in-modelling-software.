@@ -10,6 +10,10 @@
  4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
  
  ## PROCEDURE
+```
+   Name:B.Surya Prakash
+   Reg.No: 212224230281
+```
  1.	Open new file and then select sketch icon.
  2.	Select the plane for sketching. 
  3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
@@ -36,7 +40,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ ![image](https://github.com/user-attachments/assets/82e66361-f166-48b5-99d0-b6d22f2afa00)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
